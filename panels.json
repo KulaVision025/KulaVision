@@ -15,7 +15,7 @@
     { "adapter": "papazsports", "name": "PapazSports", "url": "https://www.papazsports1020.pro/", "enabled": true },
     { "adapter": "buffstreams", "name": "BuffStreams", "url": "https://buffstreams.direct/", "enabled": true },
     { "adapter": "puhutv", "name": "PuhuTV", "url": "https://puhutv.com/", "enabled": true },
-    { "adapter": "filmekseni", "name": "FilmEkseni", "url": "https://filmekseni.tr/", "enabled": true },
+    { "adapter": "filmekseni", "name": "FilmEkseni", "url": "https://filmekseni.vip/", "enabled": true },
     { "adapter": "movies2watch", "name": "Movies2Watch", "url": "https://www1.movies2watch.biz/home/", "enabled": true },
     { "adapter": "theflixbay", "name": "TheFlixBay", "url": "https://theflixbay.com/", "enabled": true },
     { "adapter": "streamingunity", "name": "StreamingUnity", "url": "https://streamingunity.dog/", "enabled": true },
