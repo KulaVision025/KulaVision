@@ -21,124 +21,6 @@
 
 ---
 
-<a id="english"></a>
-
-# 🇬🇧 English
-
-## About
-
-**Kula Vision Prime** is a modern Windows desktop application that brings together movies, TV series, documentaries, sports, and live TV panels in a single user-friendly interface.
-
-> **Platform:** Windows 10 / 11 • .NET 8 • WPF • WebView2
-
----
-
-## ✨ Features
-
-* 🎬 Movies, TV Series, Documentaries, Sports, and Live TV panels
-* 🔍 Global search
-* ⭐ Favorites system
-* 🕒 Watch history
-* ▶️ Built-in WebView2 media player
-* 🖼️ TMDB posters and detailed content information
-* 📺 Trakt integration
-* 🌙 Modern dark theme
-* ⚡ Fast startup (Splash Screen)
-* 📂 Portable (No installation required)
-
----
-
-## 📦 Installation
-
-1. Download **KulaVisionPrime-vX.Y.Z.zip**.
-2. Extract the archive to any folder.
-3. Run **KulaVisionPrime.exe**.
-
-No installation wizard is required.
-
----
-
-## 🔑 TMDB & Trakt API Configuration
-
-On first launch, the application automatically creates:
-
-* `tmdb-api-key.txt`
-* `trakt-client-id.txt`
-
-Location:
-
-```text
-%AppData%\KulaVisionPrime\
-```
-
-Simply open these files and paste your own API keys.
-
-Adding API keys is recommended for:
-
-* More accurate movie and TV information
-* Better posters and artwork
-* Updated ratings and metadata
-* Improved search results
-* Better overall performance
-
----
-
-## 🖼️ Screenshots
-
-### 🎬 Movies
-
-![Movies](screenshots/movies.png)
-
-### 📺 TV Series
-
-![TV Series](screenshots/series.png)
-
-### 🌍 Documentaries
-
-![Documentaries](screenshots/documentaries.png)
-
-### 🔎 Panel Selection
-
-![Panels](screenshots/panels.png)
-
-### ▶️ Media Player
-
-![Player](screenshots/player.png)
-
----
-
-## 🛠️ Built With
-
-* C#
-* .NET 8
-* WPF
-* WebView2
-* JSON
-* TMDB API
-* Trakt API
-
----
-
-## 👨‍💻 Developer
-
-**Mustafa Kula**
-
-📧 **[mustafakula@proton.me](mailto:mustafakula@proton.me)**
-
----
-
-## ⚠️ Disclaimer
-
-Kula Vision Prime does not host, store, or distribute any media content. The application acts only as a client for publicly available third-party web content. Users are responsible for complying with the laws and terms of use in their country.
-
----
-
-## 📄 License
-
-© 2026 Mustafa Kula — All Rights Reserved.
-
----
-
 <a id="turkce"></a>
 
 # 🇹🇷 Türkçe
@@ -264,3 +146,123 @@ If you enjoy using Kula Vision Prime, please consider giving this repository a �
 Kula Vision Prime'ı beğendiyseniz GitHub deposuna ⭐ vererek projeyi destekleyebilirsiniz.
 
 📧 **[mustafakula@proton.me](mailto:mustafakula@proton.me)**
+
+
+
+<a id="english"></a>
+
+# 🇬🇧 English
+
+## About
+
+**Kula Vision Prime** is a modern Windows desktop application that brings together movies, TV series, documentaries, sports, and live TV panels in a single user-friendly interface.
+
+> **Platform:** Windows 10 / 11 • .NET 8 • WPF • WebView2
+
+---
+
+## ✨ Features
+
+* 🎬 Movies, TV Series, Documentaries, Sports, and Live TV panels
+* 🔍 Global search
+* ⭐ Favorites system
+* 🕒 Watch history
+* ▶️ Built-in WebView2 media player
+* 🖼️ TMDB posters and detailed content information
+* 📺 Trakt integration
+* 🌙 Modern dark theme
+* ⚡ Fast startup (Splash Screen)
+* 📂 Portable (No installation required)
+
+---
+
+## 📦 Installation
+
+1. Download **KulaVisionPrime-vX.Y.Z.zip**.
+2. Extract the archive to any folder.
+3. Run **KulaVisionPrime.exe**.
+
+No installation wizard is required.
+
+---
+
+## 🔑 TMDB & Trakt API Configuration
+
+On first launch, the application automatically creates:
+
+* `tmdb-api-key.txt`
+* `trakt-client-id.txt`
+
+Location:
+
+```text
+%AppData%\KulaVisionPrime\
+```
+
+Simply open these files and paste your own API keys.
+
+Adding API keys is recommended for:
+
+* More accurate movie and TV information
+* Better posters and artwork
+* Updated ratings and metadata
+* Improved search results
+* Better overall performance
+
+---
+
+## 🖼️ Screenshots
+
+### 🎬 Movies
+
+![Movies](screenshots/movies.png)
+
+### 📺 TV Series
+
+![TV Series](screenshots/series.png)
+
+### 🌍 Documentaries
+
+![Documentaries](screenshots/documentaries.png)
+
+### 🔎 Panel Selection
+
+![Panels](screenshots/panels.png)
+
+### ▶️ Media Player
+
+![Player](screenshots/player.png)
+
+---
+
+## 🛠️ Built With
+
+* C#
+* .NET 8
+* WPF
+* WebView2
+* JSON
+* TMDB API
+* Trakt API
+
+---
+
+## 👨‍💻 Developer
+
+**Mustafa Kula**
+
+📧 **[mustafakula@proton.me](mailto:mustafakula@proton.me)**
+
+---
+
+## ⚠️ Disclaimer
+
+Kula Vision Prime does not host, store, or distribute any media content. The application acts only as a client for publicly available third-party web content. Users are responsible for complying with the laws and terms of use in their country.
+
+---
+
+## 📄 License
+
+© 2026 Mustafa Kula — All Rights Reserved.
+
+
