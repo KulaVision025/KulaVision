@@ -162,30 +162,7 @@ No installation wizard is required.
 
 ---
 
-## 🔑 TMDB & Trakt API Configuration
 
-On first launch, the application automatically creates:
-
-* `tmdb-api-key.txt`
-* `trakt-client-id.txt`
-
-Location:
-
-```text
-%AppData%\KulaVisionPrime\
-```
-
-Simply open these files and paste your own API keys.
-
-Adding API keys is recommended for:
-
-* More accurate movie and TV information
-* Better posters and artwork
-* Updated ratings and metadata
-* Improved search results
-* Better overall performance
-
----
 
 ## 🖼️ Screenshots
 
