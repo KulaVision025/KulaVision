@@ -58,30 +58,6 @@ Kurulum sihirbazı gerekmez.
 
 ---
 
-## 🔑 TMDB ve Trakt API Yapılandırması
-
-Uygulama ilk çalıştırıldığında aşağıdaki dosyaları otomatik olarak oluşturur:
-
-* `tmdb-api-key.txt`
-* `trakt-client-id.txt`
-
-Konum:
-
-```text
-%AppData%\KulaVisionPrime\
-```
-
-Bu dosyaları açıp kendi API anahtarlarınızı yapıştırmanız yeterlidir.
-
-API anahtarları sayesinde:
-
-* Daha doğru film ve dizi bilgileri
-* Daha kaliteli poster ve görseller
-* Güncel puan ve içerik bilgileri
-* Daha başarılı arama sonuçları
-* Daha iyi genel performans
-
----
 
 ## 🖼️ Ekran Görüntüleri
 
