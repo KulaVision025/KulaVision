@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/KulaVision025/KulaVision/releases/download/v1.0.0/KulaVisionPrime-v1.0.0.zip",
-  "notes": "İlk sürüm — Kula Vision Prime"
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/KulaVision025/KulaVision/releases/download/v1.0.1/KulaVisionPrime-v1.0.1.zip",
+  "notes": "v1.0.1 — App is now in English. Faster TMDB Discover & live search; detail pages use TMDB titles and posters."
+  "notes": "v1.0.1 — Uygulamaya İngilizce dil desteği eklendi. TMDB ile daha hızlı Keşfet ve canlı arama; detay sayfalarında TMDB başlık ve poster."
 }
