@@ -18,7 +18,7 @@
     { "adapter": "filmekseni", "name": "FilmEkseni", "url": "https://filmekseni.vip/", "enabled": true },
     { "adapter": "movies2watch", "name": "Movies2Watch", "url": "https://www1.movies2watch.biz/home/", "enabled": true },
     { "adapter": "theflixbay", "name": "TheFlixBay", "url": "https://theflixbay.com/", "enabled": true },
-    { "adapter": "streamingunity", "name": "StreamingUnity", "url": "https://streamingunity.dog/", "enabled": true },
+    { "adapter": "streamingunity", "name": "StreamingUnity", "url": "https://streamingunity.vip/", "enabled": true },
     { "adapter": "cineby", "name": "Cineby", "url": "https://cineby.ws/", "enabled": true },
     { "adapter": "sinekfilmizle", "name": "SinekFilmizle", "url": "https://sinekfilmizle.com/", "enabled": true },
     { "adapter": "hdfilmcehennemi", "name": "HDFilmCehennemi", "url": "https://www.hdfilmcehennemi.nl/", "enabled": true },
