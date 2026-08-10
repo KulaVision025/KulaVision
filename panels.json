@@ -38,6 +38,6 @@
     { "adapter": "filmmodu", "name": "Filmmodu", "url": "https://filmmodu.live/", "enabled": true },
     { "adapter": "filmizleking", "name": "FilmizleKing", "url": "https://filmizleking.com/", "enabled": true },
     { "adapter": "sinebol", "name": "Sinebol", "url": "https://SineBol.com/", "enabled": true },
-    { "adapter": "rivestream", "name": "RiveStream", "url": "https://www.rivestream.ap/", "enabled": true }
+    { "adapter": "rivestream", "name": "RiveStream", "url": "https://www.rivestream.app/", "enabled": true }
   ]
 }
