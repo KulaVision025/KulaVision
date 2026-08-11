@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://bdwiqtylkethzjfrfjry.supabase.co/storage/v1/object/public/vision%20prime/KulaVisionPrime-v1.0.2.zip",
-  "notes": "v1.0.2"
+  "version": "1.0.3",
+  "downloadUrl": "https://bdwiqtylkethzjfrfjry.supabase.co/storage/v1/object/public/vision%20prime/KulaVisionPrime-v1.0.3.zip",
+  "notes": "v1.0.3 — IMDb Top 250 eklendi; arama güçlendirildi (film/dizi ayrımı); keşfet listeleri 100 kart; YabancıDizi erişim/arama düzeltmesi; IMDb poster yedekleri."
 }
