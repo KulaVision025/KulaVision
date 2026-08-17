@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "downloadUrl": "https://bdwiqtylkethzjfrfjry.supabase.co/storage/v1/object/public/vision%20prime/KulaVisionPrime-v1.0.4.zip",
-  "notes": "v1.0.4 — HDFilmCehennemi oynatıcı ve detay düzeltmeleri; Dizilab oynatıcı (iframe); Dizigom bölüm oynatıcısı."
+  "version": "1.0.5",
+  "downloadUrl": "https://bdwiqtylkethzjfrfjry.supabase.co/storage/v1/object/public/vision%20prime/KulaVisionPrime-v1.0.5.zip",
+  "notes": "v1.0.5 — Aurora Glass arayüz (Film Keşfet, paneller, favoriler); canlı keşfet araması; panel poster grid 6 sütun tam genişlik; tüm film/dizi panellerinde TMDB poster yükseltme (site afişi sonrası arka planda); Dizigom/YabancıDizi placeholder ve düşük kalite afiş düzeltmeleri; Nerede izlenir kaynak listesi (panel adı + küçük film adı); panel listesi ve tarayıcı aurora teması."
 }
