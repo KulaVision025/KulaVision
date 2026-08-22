@@ -32,7 +32,7 @@
     { "adapter": "moviesjoy", "name": "MoviesJoy", "url": "https://moviesjoy.bz/", "enabled": true },
     { "adapter": "dizilab", "name": "Dizilab", "url": "https://dizilab.to/", "enabled": true },
     { "adapter": "dizifilmizle", "name": "Dizifilmizle", "url": "https://dizifilmizle.to/", "enabled": true },
-    { "adapter": "hdfilmizleyelim", "name": "HDFilmizleyelim", "url": "https://hdfilmizleyelim.com/", "enabled": true },
+    { "adapter": "hdfilmizleyelim", "name": "HDFilmizleyelim", "url": "https://hdfilmizleyelim1.com/", "enabled": true },
     { "adapter": "kultfilmler", "name": "KultFilmler", "url": "https://kultfilmler.net/", "enabled": true },
     { "adapter": "sezonlukdizi", "name": "SezonlukDizi", "url": "https://sezonlukdizi.cc/", "enabled": true },
     { "adapter": "filmmodu", "name": "Filmmodu", "url": "https://filmmodu.live/", "enabled": true },
