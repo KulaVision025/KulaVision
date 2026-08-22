@@ -7,7 +7,7 @@
     { "adapter": "jetfilmizle", "name": "JetFilmizle", "url": "https://jetfilmizle.now/", "enabled": true },
     { "adapter": "fullhdfilmizlesene", "name": "FullHDFilmizlesene", "url": "https://www.fullhdfilmizlesene.now/", "enabled": true },
     { "adapter": "dizibox", "name": "Dizibox", "url": "https://www.dizibox.live/", "enabled": true },
-    { "adapter": "dizipal2208", "name": "DiziPal", "url": "https://dizipal2215.com/", "enabled": true },
+    { "adapter": "dizipal2208", "name": "DiziPal", "url": "https://dizipal2216.com/", "enabled": true },
     { "adapter": "setfilmizle", "name": "SetFilmizle", "url": "https://www.setfilmizle.ltd/", "enabled": true },
     { "adapter": "diziyou", "name": "Diziyou", "url": "https://www.diziyou.one/", "enabled": true },
     { "adapter": "dlhd", "name": "DLHD", "url": "https://dlhd.st/", "enabled": true },
