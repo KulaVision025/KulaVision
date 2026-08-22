@@ -23,7 +23,7 @@
     { "adapter": "sinekfilmizle", "name": "SinekFilmizle", "url": "https://sinekfilmizle.com/", "enabled": true },
     { "adapter": "hdfilmcehennemi", "name": "HDFilmCehennemi", "url": "https://www.hdfilmcehennemi.nl/", "enabled": true },
     { "adapter": "dizigom", "name": "Dizigom", "url": "https://www.dizigom.love/", "enabled": true },
-    { "adapter": "dizilla", "name": "Dizilla", "url": "https://dizillahd.com/", "enabled": true },
+    { "adapter": "dizilla", "name": "Dizilla", "url": "https://dizilla.now//", "enabled": true },
     { "adapter": "dizimanya", "name": "Dizimanya", "url": "https://dizimanya.com/", "enabled": true },
     { "adapter": "yabancidizi", "name": "YabancıDizi", "url": "https://yabancidizi.news/", "enabled": true },
     { "adapter": "belgeselx", "name": "BelgeselX", "url": "https://belgeselx.com/", "enabled": true },
