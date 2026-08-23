@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "downloadUrl": "https://bdwiqtylkethzjfrfjry.supabase.co/storage/v1/object/public/vision%20prime/KulaVisionPrime-v1.0.6.zip",
-  "notes": "v1.0.6 — Yeni: Platformlar menüsü — Netflix, Amazon Prime Video, Disney+, HBO Max, Hulu, Apple TV+, Mubi, Tabii, BluTV, Exxen ve Gain için TMDB kataloğu; marka renkli wordmark logo kartları; Filmler/Diziler seçimi (Film Keşfet chip stili). Yeni panel: Cinejoy (film + dizi). Düzeltmeler: Tabii/HBO Max doğru TMDB kaynağı; platform diziler sekmesi geçişi; Cinejoy oynatıcı hızlandırma. Not: Bazı yerel platformlarda TMDB verisi sınırlı olabilir; panel araması ayrı çalışır."
+  "version": "1.0.7",
+  "downloadUrl": "https://bdwiqtylkethzjfrfjry.supabase.co/storage/v1/object/public/vision%20prime/KulaVisionPrime-v1.0.7.zip",
+  "notes": "v1.0.7 — Yeni: Popüler Oyuncular (TMDB filmografi + canlı oyuncu arama). Düzeltmeler: Setfilmizle.ltd iframe oynatıcı; Dizilla.now domain geçişi; oyuncu sekmesine tekrar tıklayınca liste sıfırlama."
 }
