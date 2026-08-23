@@ -1,8 +1,6 @@
 {
-  "version": 2,
   "version": 3,
   "updatedAt": "2026-08-23",
-  "notes": "GitHub KulaVision/main/panels.json ile senkron. Site adı veya URL değişince bu dosyayı güncelle; adapter alanını değiştirme.",
   "notes": "Uygulama panel listesi ile senkron (DLHD, PapazSports, BuffStreams kaldırıldı). adapter alanını değiştirmeyin.",
   "panels": [
     { "adapter": "filmmakinesi", "name": "FilmMakinesi", "url": "https://filmmakinesi.to/", "enabled": true },
@@ -12,10 +10,7 @@
     { "adapter": "dizipal2208", "name": "DiziPal", "url": "https://dizipal2216.com/", "enabled": true },
     { "adapter": "setfilmizle", "name": "SetFilmizle", "url": "https://www.setfilmizle.ltd/", "enabled": true },
     { "adapter": "diziyou", "name": "Diziyou", "url": "https://www.diziyou.one/", "enabled": true },
-    { "adapter": "dlhd", "name": "DLHD", "url": "https://dlhd.st/", "enabled": true },
     { "adapter": "youtube", "name": "YouTube", "url": "https://www.youtube.com/", "enabled": true },
-    { "adapter": "papazsports", "name": "PapazSports", "url": "https://www.papazsports1020.pro/", "enabled": true },
-    { "adapter": "buffstreams", "name": "BuffStreams", "url": "https://buffstreams.direct/", "enabled": true },
     { "adapter": "puhutv", "name": "PuhuTV", "url": "https://puhutv.com/", "enabled": true },
     { "adapter": "filmekseni", "name": "FilmEkseni", "url": "https://filmekseni.vip/", "enabled": true },
     { "adapter": "movies2watch", "name": "Movies2Watch", "url": "https://www1.movies2watch.biz/home/", "enabled": true },
@@ -40,7 +35,6 @@
     { "adapter": "filmmodu", "name": "Filmmodu", "url": "https://filmmodu.live/", "enabled": true },
     { "adapter": "filmizleking", "name": "FilmizleKing", "url": "https://filmizleking.com/", "enabled": true },
     { "adapter": "sinebol", "name": "Sinebol", "url": "https://SineBol.com/", "enabled": true },
-    { "adapter": "rivestream", "name": "RiveStream", "url": "https://www.rivestream.app/", "enabled": true }
     { "adapter": "rivestream", "name": "RiveStream", "url": "https://www.rivestream.app/", "enabled": true },
     { "adapter": "cinejoy", "name": "Cinejoy", "url": "https://cinejoy.to/", "enabled": true }
   ]
