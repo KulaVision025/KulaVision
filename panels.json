@@ -1,7 +1,9 @@
 {
-  "version": 1,
-  "updatedAt": "2026-08-03",
-  "notes": "Site adı veya URL değişince sadece bu dosyayı GitHub'da düzenle. adapter alanını değiştirme.",
+  "version": 2,
+  "version": 3,
+  "updatedAt": "2026-08-23",
+  "notes": "GitHub KulaVision/main/panels.json ile senkron. Site adı veya URL değişince bu dosyayı güncelle; adapter alanını değiştirme.",
+  "notes": "Uygulama panel listesi ile senkron (DLHD, PapazSports, BuffStreams kaldırıldı). adapter alanını değiştirmeyin.",
   "panels": [
     { "adapter": "filmmakinesi", "name": "FilmMakinesi", "url": "https://filmmakinesi.to/", "enabled": true },
     { "adapter": "jetfilmizle", "name": "JetFilmizle", "url": "https://jetfilmizle.now/", "enabled": true },
@@ -23,7 +25,7 @@
     { "adapter": "sinekfilmizle", "name": "SinekFilmizle", "url": "https://sinekfilmizle.com/", "enabled": true },
     { "adapter": "hdfilmcehennemi", "name": "HDFilmCehennemi", "url": "https://www.hdfilmcehennemi.nl/", "enabled": true },
     { "adapter": "dizigom", "name": "Dizigom", "url": "https://www.dizigom.love/", "enabled": true },
-    { "adapter": "dizilla", "name": "Dizilla", "url": "https://dizilla.now//", "enabled": true },
+    { "adapter": "dizilla", "name": "Dizilla", "url": "https://dizilla.now/", "enabled": true },
     { "adapter": "dizimanya", "name": "Dizimanya", "url": "https://dizimanya.com/", "enabled": true },
     { "adapter": "yabancidizi", "name": "YabancıDizi", "url": "https://yabancidizi.news/", "enabled": true },
     { "adapter": "belgeselx", "name": "BelgeselX", "url": "https://belgeselx.com/", "enabled": true },
@@ -39,5 +41,7 @@
     { "adapter": "filmizleking", "name": "FilmizleKing", "url": "https://filmizleking.com/", "enabled": true },
     { "adapter": "sinebol", "name": "Sinebol", "url": "https://SineBol.com/", "enabled": true },
     { "adapter": "rivestream", "name": "RiveStream", "url": "https://www.rivestream.app/", "enabled": true }
+    { "adapter": "rivestream", "name": "RiveStream", "url": "https://www.rivestream.app/", "enabled": true },
+    { "adapter": "cinejoy", "name": "Cinejoy", "url": "https://cinejoy.to/", "enabled": true }
   ]
 }
