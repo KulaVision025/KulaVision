@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://bdwiqtylkethzjfrfjry.supabase.co/storage/v1/object/public/vision%20prime/KulaVisionPrime-v1.0.7.zip",
-  "notes": "v1.0.7 — Yeni: Popüler Oyuncular (TMDB filmografi + canlı oyuncu arama). Düzeltmeler: Setfilmizle.ltd iframe oynatıcı; Dizilla.now domain geçişi; oyuncu sekmesine tekrar tıklayınca liste sıfırlama."
+  "version": "1.0.8",
+  "downloadUrl": "https://bdwiqtylkethzjfrfjry.supabase.co/storage/v1/object/public/vision%20prime/KulaVisionPrime-v1.0.8.zip",
+  "notes": "v1.0.8 — Panel adres güncellemeleri (FullHD, SinekFilmizle, FilmEkseni, DiziPal); DiziPal oynatıcı düzeltmesi; TMDB yetişkin içerik filtresi; Hakkında panel config kaldırıldı."
 }
