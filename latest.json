@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "downloadUrl": "https://bdwiqtylkethzjfrfjry.supabase.co/storage/v1/object/public/vision%20prime/KulaVisionPrime-v1.0.8.zip",
-  "notes": "v1.0.8 — Panel adres güncellemeleri (FullHD, SinekFilmizle, FilmEkseni, DiziPal); DiziPal oynatıcı düzeltmesi; TMDB yetişkin içerik filtresi; Hakkında panel config kaldırıldı."
+  "version": "1.0.9",
+  "downloadUrl": "https://bdwiqtylkethzjfrfjry.supabase.co/storage/v1/object/public/vision%20prime/KulaVisionPrime-v1.0.9.zip",
+  "notes": "v1.0.9 — Movy paneli (film/dizi); Movy oynatıcı kontrol çubuğu düzeltmesi; panel çevrimiçi kontrol hızlandırma; HDFilmizleyelim adres güncellemesi."
 }
